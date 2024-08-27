@@ -1,5 +1,3 @@
-Вот пример файла `README.md` для вашего проекта "Erase-2-Good", который объясняет, как настроить и использовать проект для удаления объектов с изображений:
-
 # Erase-2-Good
 
 **Erase-2-Good** is a Python-based tool for removing unwanted objects from images using advanced inpainting techniques. The tool leverages the LaMa (Large Mask Inpainting) deep learning model to fill in the gaps left by removed objects, resulting in natural-looking images.
